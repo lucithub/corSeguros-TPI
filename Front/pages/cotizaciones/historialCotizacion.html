@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Cotización</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <header align="center">
+        <h1>corSeguros</h1>
+        <p>La mejor protección para tu vehículos</p>
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container" id="menu">
+            <a class="navbar-brand">Seguros de Autos</a>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a id="hrefIL" class="nav-link" href="/pages/index/indexLogueado.html">Inicio</a>
+                    </li>
+                        <a id="hrefEP" class="nav-link" href="/pages/user/edit-profile.html">Editar Perfil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="hrefC" class="nav-link" href="/pages/cotizaciones/quotations.html">Cotizaciones</a>
+                    </li>
+                    <li>
+                        <a id="hrefNL" class="nav-link" href="/pages/index/nosotrosLogueado.html">Nosotros</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div align="center">
+        <button type="button" class="btn btn-primary" id="btn-primary" onclick="consultarCotizacion()">
+            Ver mis Cotizaciones
+        </button>
+        <!-- Hacer una tabla donde se muestren las cotizaciones realizadas por el usuario -->
+        <div class="container mt-5">
+            <h1 class="text-center">Cotizaciones</h1>
+            <table id="tablaCotizaciones" class="table table-striped table-bordered mt-4">
+                <thead>
+                    <tr>
+                        <th>Nro. Cotización</th>
+                        <th>Fecha de Emisión</th>
+                        <th>Fecha de Vencimiento</th>
+                        <th>Precio</th>
+                        <th>Auto</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Las filas se agregarán aquí mediante JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+           
+    <footer class="bg-dark text-light text-center py-3" id="footerPagina">
+        <p>&copy; 2024 corSeguros. Todos los derechos reservados.</p>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const usuarioId = urlParams.get('id');
+        const usuarioNombre = urlParams.get('nombre');
+        const usuarioApellido = urlParams.get('apellido');
+        const enlaceIL = document.getElementById('hrefIL');
+        enlaceIL.href = `/pages/index/indexLogueado.html?id=${usuarioId}&nombre=${usuarioNombre}&apellido=${usuarioApellido}`;
+        const enlaceNL = document.getElementById('hrefNL');
+        enlaceNL.href = `/pages/index/nosotrosLogueado.html?id=${usuarioId}&nombre=${usuarioNombre}&apellido=${usuarioApellido}`;
+        const enlaceEP = document.getElementById('hrefEP');
+        enlaceEP.href = `/pages/user/edit-profile.html?id=${usuarioId}&nombre=${usuarioNombre}&apellido=${usuarioApellido}`;
+        const enlaceC = document.getElementById('hrefC');
+        enlaceC.href = `/pages/cotizaciones/quotations.html?id=${usuarioId}&nombre=${usuarioNombre}&apellido=${usuarioApellido}`;
+    </script>
+    <script src="/js/cotizacion.js"></script>
+    <script src="/js/user.js"></script>
+</body>
+</html>

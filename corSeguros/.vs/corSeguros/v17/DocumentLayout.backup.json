@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\versione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\versione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\repositories\\implementations\\vehiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:repositories\\implementations\\vehiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\repositories\\interfaces\\ivehiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:repositories\\interfaces\\ivehiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\services\\implementations\\segurosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:services\\implementations\\segurosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\services\\repositories\\isegurosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:services\\repositories\\isegurosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\repositories\\implementations\\cotizacionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:repositories\\implementations\\cotizacionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\cotizacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\cotizacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\repositories\\interfaces\\icotizacionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:repositories\\interfaces\\icotizacionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:repositories\\implementations\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\repositories\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:repositories\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\corseguros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:corseguros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\detallesseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\detallesseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|c:\\users\\noteb\\onedrive\\escritorio\\tpi\\corseguros\\models\\bbddaseguradoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299FB532-4940-45D3-BE82-6CF11A6913FD}|corSeguros.csproj|solutionrelative:models\\bbddaseguradoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CotizacionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Implementations\\CotizacionesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CotizacionesRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Implementations\\CotizacionesRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CotizacionesRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:59:01.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SegurosService.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Services\\Implementations\\SegurosService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SegurosService.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Services\\Implementations\\SegurosService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SegurosService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:30:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISegurosService.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Services\\Repositories\\ISegurosService.cs",
+              "RelativeDocumentMoniker": "Services\\Repositories\\ISegurosService.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Services\\Repositories\\ISegurosService.cs",
+              "RelativeToolTip": "Services\\Repositories\\ISegurosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:29:40.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiculosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Implementations\\VehiculosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\VehiculosRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Implementations\\VehiculosRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\VehiculosRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:25:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:19:58.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Implementations\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Implementations\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ClienteRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:22:30.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:14:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:06:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegurosController.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Controllers\\SegurosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegurosController.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Controllers\\SegurosController.cs",
+              "RelativeToolTip": "Controllers\\SegurosController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAB4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:31:38.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Versione.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Versione.cs",
+              "RelativeDocumentMoniker": "Models\\Versione.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Versione.cs",
+              "RelativeToolTip": "Models\\Versione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:21:57.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVehiculosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Interfaces\\IVehiculosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IVehiculosRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Interfaces\\IVehiculosRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IVehiculosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:24:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Modelo.cs",
+              "RelativeDocumentMoniker": "Models\\Modelo.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Modelo.cs",
+              "RelativeToolTip": "Models\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:54:48.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Marca.cs",
+              "RelativeToolTip": "Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:56:57.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICotizacionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Interfaces\\ICotizacionesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICotizacionesRepository.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Repositories\\Interfaces\\ICotizacionesRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICotizacionesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:57:01.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cotizacione.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Cotizacione.cs",
+              "RelativeDocumentMoniker": "Models\\Cotizacione.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Cotizacione.cs",
+              "RelativeToolTip": "Models\\Cotizacione.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:52:48.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "corSeguros.csproj",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\corSeguros.csproj",
+              "RelativeDocumentMoniker": "corSeguros.csproj",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\corSeguros.csproj",
+              "RelativeToolTip": "corSeguros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T16:19:06.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetallesSeguro.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\DetallesSeguro.cs",
+              "RelativeDocumentMoniker": "Models\\DetallesSeguro.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\DetallesSeguro.cs",
+              "RelativeToolTip": "Models\\DetallesSeguro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:53:09.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Seguro.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Seguro.cs",
+              "RelativeDocumentMoniker": "Models\\Seguro.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\Seguro.cs",
+              "RelativeToolTip": "Models\\Seguro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:55:12.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T16:13:25.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BBDDAseguradoraContext.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\BBDDAseguradoraContext.cs",
+              "RelativeDocumentMoniker": "Models\\BBDDAseguradoraContext.cs",
+              "ToolTip": "C:\\Users\\noteb\\OneDrive\\Escritorio\\TPI\\corSeguros\\Models\\BBDDAseguradoraContext.cs",
+              "RelativeToolTip": "Models\\BBDDAseguradoraContext.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:13:11.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

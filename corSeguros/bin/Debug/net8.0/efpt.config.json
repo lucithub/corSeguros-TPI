@@ -1,0 +1,114 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "BBDDAseguradoraContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "corSeguros",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Anios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Barrios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Coberturas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Codigos_postales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cotizaciones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Detalles_seguro]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Localidades]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Marcas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Modelos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Niveles_riesgo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Provincias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Seguros]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sucursales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tipos_seguros]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tipos_vehiculos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Versiones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Zonas_riesgo]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

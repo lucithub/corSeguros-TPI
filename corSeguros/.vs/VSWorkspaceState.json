@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Properties",
+    "\\Repositories",
+    "\\Repositories\\Implementations",
+    "\\Repositories\\Interfaces",
+    "\\Services",
+    "\\Services\\Implementations",
+    "\\Services\\Repositories"
+  ],
+  "SelectedNode": "\\Repositories\\Implementations\\CotizacionesRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
